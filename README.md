@@ -1,18 +1,18 @@
-<!-- Anuthi_Training Progress Log
-Start Date: 16/06
-Topics Covered:
+# Anuthi_Training Progress Log
+# Start Date: 16/06
+# Topics Covered:
 
- NumPy
+# NumPy
 
- Pandas
+# Pandas
 
- Matplotlib
+# Matplotlib
 
- Seaborn
+# Seaborn
 
- Complete Machine Learning Concepts (including hands-on programs)
+# Complete Machine Learning Concepts (including hands-on programs)
 
- Note: Created a new repository Anuthi_@_Training due to issues with the previous one. -->
+# Note: Created a new repository Anuthi_@_Training due to issues with the previous one.
 
 # Today: 03/07
 # ew Concepts Learned:
